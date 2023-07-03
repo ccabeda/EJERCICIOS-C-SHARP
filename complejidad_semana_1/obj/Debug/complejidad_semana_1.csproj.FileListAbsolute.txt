@@ -1,0 +1,5 @@
+C:\Users\Agustin\complejidad_semana_1\obj\Debug\complejidad_semana_1.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\complejidad_semana_1\bin\Debug\complejidad_semana_1.exe
+C:\Users\Agustin\complejidad_semana_1\bin\Debug\complejidad_semana_1.pdb
+C:\Users\Agustin\complejidad_semana_1\obj\Debug\complejidad_semana_1.exe
+C:\Users\Agustin\complejidad_semana_1\obj\Debug\complejidad_semana_1.pdb
